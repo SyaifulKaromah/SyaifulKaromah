@@ -1,4 +1,4 @@
-<div align="Cebter">
+<div align="Center">
 
 ### Hello, I'm M. Syaiful Karomah👋👨‍💻
 
